@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Toggle TV
+Comment=Enable or disable the TV output
+Exec=toggle-tv.sh
+Icon=tv-symbolic
+Path=
+Terminal=false
+StartupNotify=false
+Categories=Settings;Utility;HardwareSettings;

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Display watcher
+Comment=Set the wanted display configuration
+Exec=set-display-configuration.sh
+Icon=display
+Path=
+Terminal=false
+StartupNotify=false
